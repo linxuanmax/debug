@@ -12,7 +12,5 @@ a.func('jack')
 b = Test()
 b.func('jack')
 
-
-
 c = Test()
 c.func('jack')
